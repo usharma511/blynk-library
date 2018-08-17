@@ -29,7 +29,7 @@
 
 
 #include <SPI.h>
-#include <Ethernet.h>
+#include <Et<ESP8266WiFi.h>hernet.h>
 #include <BlynkSimpleEthernet.h>
 
 // You should get Auth Token in the Blynk App.
